@@ -15,6 +15,8 @@ export class AppComponent {
   openCloseMobileMenu(){
     this.isMenuOpen = !this.isMenuOpen;
   }
+  // demo1 = [1,2,3,56,78,902,35];
+  // demo2 = ["Ingole","1","Arun",3,4];
   banner1= [
     {image:'assets/bottle1.png', name:'Acne Cream', details:'All Natural Ingredients', price:24.99},
     {image:'assets/bottle2.png', name:'Vitiligio Solution', details:'All Natural Ingredients', price:24.99},
